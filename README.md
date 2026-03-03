@@ -8,9 +8,9 @@ ServiceNow platform leader with deep experience spanning enterprise delivery lea
 
 ## INNOVATION & AWARDS
 * **Knowledge 2025 Hackathon – Honorable Mention:** Rapidly prototyped *PlayGrid*, a custom ServiceNow App Engine solution highlighting AI-enabled workflows. Leveraged Decision Tables, UI Builder, and Now Assist to demonstrate differentiated platform value, framing technical capabilities into an executive-ready business narrative.
-<p align="center">
-<img src="https://github.com/cadderly1701/resume/blob/main/playgrid_logo.jpg" width="250" class="center-image">
-</p>
+
+<p align="center"> <img src="https://github.com/cadderly1701/resume/blob/main/playgrid_logo.jpg" width="250" class="center-image"> </p>
+
 * **CDW CEO Continuous Improvement Award (2023):** Granted executive recognition for outstanding contributions to optimizing internal delivery processes and proactively leading, guiding, and mentoring peers to elevate overall practice performance.
 
 ## EXPERIENCE
