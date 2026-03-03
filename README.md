@@ -1,7 +1,11 @@
 # CJ JEFFREY
 **ServiceNow Delivery Leader & Strategic Solution Consultant**
 
-Plano, TX | 970.893.3299 | [cj.r.jeffrey@gmail.com](mailto:cj.r.jeffrey@gmail.com) | [LinkedIn](https://www.linkedin.com/in/cj-jeffrey-77761210a/) | [GitHub](https://github.com/cadderly1701/resume/)
+<details>
+  <summary>Click to see contact details</summary>
+  <p>Plano, TX  |<a href="mailto:cj.r.jeffrey@gmail.com">cj.r.jeffrey@gmail.com</a>  |  <a href="https://www.linkedin.com/in/cj-jeffrey-77761210a/">LinkedIn</a>  |  <a href="https://github.com/cadderly1701/resume/">GitHub</a></p>
+</details>
+
 
 ## PROFESSIONAL SUMMARY
 ServiceNow platform leader with deep experience spanning enterprise delivery leadership, complex architecture, and AI-enabled solution design. Skilled at discussing the 'art of the possible' with clients by listening deeply to untangle competing requirements and helping them articulate their true needs to design scalable, maintainable platform architectures. Thrives on rapid prototyping, preserving out-of-the-box integrity, and bridging the gap between a compelling pre-sales vision and realistic, battle-tested execution.
