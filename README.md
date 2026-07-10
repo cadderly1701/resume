@@ -52,6 +52,7 @@ _Mar 2017 – Jan 2019_
 
 - **Knowledge 2025 Hackathon — Honorable Mention:** prototyped *PlayGrid*, a custom App Engine solution showcasing AI-enabled workflows (Decision Tables, UI Builder, Now Assist); framed technical capability into an executive-ready business narrative.
 <p align="center"> <img src="https://github.com/cadderly1701/resume/blob/main/playgrid_logo.jpg" width="250" class="center-image"> </p>
+
 - **CDW CEO Continuous Improvement Award (2023):** executive recognition for optimizing internal delivery processes and mentoring peers to elevate practice performance.
 
 ## Platform Expertise & Skills
