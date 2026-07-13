@@ -1,4 +1,5 @@
 # CJ Jeffrey
+📄 [Download résumé (PDF)](https://github.com/cadderly1701/resume/blob/main/CJ%20Jeffrey%20%E2%80%94%20Resume.pdf?raw=1)
 
 ## ServiceNow Delivery Leader & Strategic Solution Consultant
 
