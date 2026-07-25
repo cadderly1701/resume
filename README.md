@@ -7,6 +7,7 @@
   <summary>Click to see contact details</summary>
   <p>Plano, TX  |  <a href="mailto:cj.r.jeffrey@gmail.com">cj.r.jeffrey@gmail.com</a>  |  <a href="https://www.linkedin.com/in/cj-jeffrey-77761210a/">LinkedIn</a>  |  <a href="https://github.com/cadderly1701/resume/">GitHub</a></p>
 </details>
+
 ## Summary
 
 ServiceNow delivery leader and implementation advisor who puts AI into production instead of into decks. Fifteen years in IT, a decade on ServiceNow, grounded on the customer side first. Led ITSM, HRSD, and SPM delivery verticals, served as executive escalation on enterprise engagements, and personally architected custom scoped apps for Fortune 50/500 customers. Currently building AI tooling targeted at ServiceNow implementation methodology, using local models for privacy and scalability.
